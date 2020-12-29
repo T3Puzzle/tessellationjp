@@ -8,6 +8,6 @@ baseurl: "/tessellationjp"
 url: "https://t3puzzle.github.io"
 twitter_username: alytile
 github_username:  T3Puzzle
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
