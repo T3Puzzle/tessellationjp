@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/tessellationjp"
 url: "https://t3puzzle.github.io"
 twitter_username: alytile
-github_username:  T3Puzzle
-theme: jekyll-theme-cayman
+github_username:
+theme: minima
 plugins:
   - jekyll-feed
